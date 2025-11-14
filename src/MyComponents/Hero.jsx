@@ -37,9 +37,9 @@ const Hero = () => {
                 <div className='text-center py-16 mt-16'>
                     <div className='flex flex-col items-center'>
                         <img className='w-22' src='.\images\niku_bitmoji.png' alt='emoji' />
-                        <Button variant='primary' className='text-sm border py-1 px-4 font-semibold'>
+                        {/* <Button variant='primary' className='text-sm border py-1 px-4 font-semibold'>
                             <span className='animate-pulse'>🟢</span>Available for new projects
-                        </Button>
+                        </Button> */}
                     </div>
 
                     <h1 className='text-4xl md:text-6xl font-bold my-6'>
